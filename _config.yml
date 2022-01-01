@@ -1,7 +1,7 @@
 # Setup
 title:               Rbrt Dvdsn
 tagline:             'action conquers fear'
-description:         'Documenting my thgoughts and explorations throughout <em><strong>The Year of Growth</strong></em>.'
+description:         'Documenting my thgoughts and explorations throughout <abbr title="The Year of Growth">2022</abbr> and beyond.'
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
 paginate:            5
