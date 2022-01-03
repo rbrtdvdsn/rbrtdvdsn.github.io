@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2022: The Year of Growth 🌱
+title: 2022 — The Year of Growth 🌱
 ---
 Inspired by the fine folks at [Cortex] and their fondness for yearly themes—explained beautifully in [this video]—I’m embarking on the *Year of Growth* in 2022.
 
