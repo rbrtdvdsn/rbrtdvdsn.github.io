@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 2022 — The Year of Growth 🌱
+title: 2022 – The Year of Growth 🌱
 ---
-Inspired by the fine folks at [Cortex] and their fondness for yearly themes—explained beautifully in [this video]—I’m embarking on the *Year of Growth* in 2022.
+Inspired by the fine folks at [Cortex][1] and their fondness for yearly themes—explained beautifully in [this video][2]—I’m embarking on the *Year of Growth* in 2022.
 
 More specifically, I’m working to professionally expand beyond email and lifecycle marketing to become a more holistic growth marketer, cultivate stronger relationships with my family and friends, and generally mature as a person.
 
@@ -33,3 +33,6 @@ In an attempt to monitor my progress toward the above outcomes, I’ll be asking
 I’ll also be using this space to regularly document what I’m learning and interrogate my thoughts and feeling throughout the year.
 
 So cheers to a year of self-exploration and personal growth! 🌱
+
+[1]:	https://www.relay.fm/cortex
+[2]:	https://www.youtube.com/watch?v=NVGuFdX5guE
